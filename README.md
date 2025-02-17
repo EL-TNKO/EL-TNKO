@@ -1,4 +1,6 @@
 ## Hi there 👋
+🔭 I’m currently working on my first web page
+🌱 I’m always learning
 
 <!--
 **EL-TNKO/EL-TNKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
